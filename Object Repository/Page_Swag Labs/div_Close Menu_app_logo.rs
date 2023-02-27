@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a7624e74-7ab9-463a-b521-b3231cc355a2</webElementGuid>
+      <webElementGuid>7c8ebce0-6302-4a14-9051-3d1d87590d25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>app_logo</value>
-      <webElementGuid>fad6cf12-4c06-4f7c-96f2-31bba0461271</webElementGuid>
+      <webElementGuid>9c2dc777-ecab-4407-81db-faea71e71872</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header_container&quot;)/div[@class=&quot;primary_header&quot;]/div[@class=&quot;header_label&quot;]/div[@class=&quot;app_logo&quot;]</value>
-      <webElementGuid>4561fe0c-ed6d-47ba-878b-12bb597ba504</webElementGuid>
+      <webElementGuid>c3fe37b2-de6b-4030-a95a-19efe6d5e8c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header_container']/div/div[2]/div</value>
-      <webElementGuid>6f8bbf03-e495-4f81-abd8-38e287d0bcfe</webElementGuid>
+      <webElementGuid>25e3ef44-6523-49fa-90e9-81e67740c7ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div[2]/div</value>
-      <webElementGuid>35a71962-b0b3-4587-b411-a92729d65c35</webElementGuid>
+      <webElementGuid>b6ef6ad7-773b-4fff-b31e-8af21d9752e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
