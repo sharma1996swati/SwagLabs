@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>64106106-181b-4b2a-b0c9-c59ef2d06b58</webElementGuid>
+      <webElementGuid>4906dbb1-6ec2-4348-bdc8-11bd07ed0136</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login_logo</value>
-      <webElementGuid>2ef5f578-521f-460d-b60f-438c98334e3c</webElementGuid>
+      <webElementGuid>c2e06ed2-2dd1-40f4-ba62-051a18586059</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;login_logo&quot;]</value>
-      <webElementGuid>0b267d18-bcff-4130-9cfa-4fb8813200f2</webElementGuid>
+      <webElementGuid>0de950f8-cd46-4878-bda1-101d8a661b7f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div</value>
-      <webElementGuid>efb22045-0f12-4724-b883-3aa42e54b636</webElementGuid>
+      <webElementGuid>d0731281-41ac-4a04-8488-829be7f9910c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div</value>
-      <webElementGuid>8e1c9366-b4aa-44d2-99b4-eaa9cd33a5ed</webElementGuid>
+      <webElementGuid>71238f5a-2657-4bfd-9f6d-db7b57ba83aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
